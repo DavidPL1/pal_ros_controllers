@@ -124,8 +124,8 @@ Changelog for package four_wheel_steering_controller
 0.4.9 (2023-01-04)
 ------------------
 
-Forthcoming
------------
+0.4.10 (2024-07-02)
+-------------------
 * Merge branch 'fix/add_missing_dependencies' into 'erbium-devel'
   Fix missing build/test dependencies
   See merge request control/ros_controllers!57
