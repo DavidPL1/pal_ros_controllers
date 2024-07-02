@@ -164,6 +164,14 @@ Changelog for package diff_drive_controller
 0.4.9 (2023-01-04)
 ------------------
 
+Forthcoming
+-----------
+* Merge branch 'fix/add_missing_dependencies' into 'erbium-devel'
+  Fix missing build/test dependencies
+  See merge request control/ros_controllers!57
+* Adding missing build/test dependencies
+* Contributors: Jordan Palacios
+
 0.13.1 (2017-11-06)
 -------------------
 * Update changelogs

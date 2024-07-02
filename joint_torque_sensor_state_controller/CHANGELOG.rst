@@ -96,6 +96,14 @@ Changelog for package joint_torque_sensor_state_controller
 * Change the joint_torque_sensor_state_controller spawner node name
 * Contributors: saikishor
 
+Forthcoming
+-----------
+* Merge branch 'fix_use_relative_nans' into 'erbium-devel'
+  added some minor changes to be able to report proper joint_torque_states values
+  See merge request control/ros_controllers!56
+* added some minor changes to be able to report proper joint_torque_states values
+* Contributors: Jordan Palacios, Sai Kishor Kothakota
+
 0.13.1 (2017-11-06)
 -------------------
 
