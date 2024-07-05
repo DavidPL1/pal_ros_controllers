@@ -132,6 +132,9 @@ Changelog for package four_wheel_steering_controller
 * Adding missing build/test dependencies
 * Contributors: Jordan Palacios
 
+Forthcoming
+-----------
+
 0.13.1 (2017-11-06)
 -------------------
 
