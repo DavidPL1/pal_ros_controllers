@@ -90,8 +90,8 @@ Changelog for package ros_controllers
 0.4.10 (2024-07-02)
 -------------------
 
-Forthcoming
------------
+0.4.11 (2024-07-05)
+-------------------
 * Add missing packages in the metapkg
 * Contributors: Sai Kishor Kothakota
 

@@ -104,8 +104,8 @@ Changelog for package joint_torque_sensor_state_controller
 * added some minor changes to be able to report proper joint_torque_states values
 * Contributors: Jordan Palacios, Sai Kishor Kothakota
 
-Forthcoming
------------
+0.4.11 (2024-07-05)
+-------------------
 
 0.13.1 (2017-11-06)
 -------------------

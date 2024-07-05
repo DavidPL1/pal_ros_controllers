@@ -172,8 +172,8 @@ Changelog for package diff_drive_controller
 * Adding missing build/test dependencies
 * Contributors: Jordan Palacios
 
-Forthcoming
------------
+0.4.11 (2024-07-05)
+-------------------
 
 0.13.1 (2017-11-06)
 -------------------
