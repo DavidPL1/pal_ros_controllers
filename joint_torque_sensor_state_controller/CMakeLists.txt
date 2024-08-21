@@ -4,8 +4,6 @@ project(joint_torque_sensor_state_controller)
 # Load catkin and all dependencies required for this package
 find_package(catkin REQUIRED COMPONENTS realtime_tools hardware_interface pluginlib controller_interface sensor_msgs)
 
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++0x")
-
 # Declare catkin package
 catkin_package(
   CATKIN_DEPENDS realtime_tools hardware_interface pluginlib controller_interface sensor_msgs

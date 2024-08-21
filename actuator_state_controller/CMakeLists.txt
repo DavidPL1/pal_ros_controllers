@@ -1,7 +1,6 @@
 cmake_minimum_required(VERSION 3.0.2)
 project(actuator_state_controller)
 
-add_compile_options(-std=c++11)
 find_package(catkin REQUIRED COMPONENTS
   controller_interface
   hardware_interface
